@@ -2,6 +2,10 @@
 
 Personal portfolio project / technical case study.
 
+**Download:** [latest release](https://github.com/alexalghisi/sentinelhub/releases/latest)
+
+![sentinelhub running](docs/preview.png)
+
 Defensive observability case study: event ingest, fingerprint dedup, threshold rules, and incident status.
 
 It is **not** a hosted commercial product. Seed data is fictional. This repository
@@ -29,7 +33,6 @@ and Logs (Mountain View).
 
 **Hiring?** Open an issue, message me on LinkedIn, or email
 [alexalghisi@gmail.com](mailto:alexalghisi@gmail.com).
-
 
 ---
 
